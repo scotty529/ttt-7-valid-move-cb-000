@@ -1,4 +1,4 @@
-def valid_move? (board,index)
+# def valid_move? (board,index)
   
 
 def position_taken? (board,index)
